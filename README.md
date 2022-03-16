@@ -4,6 +4,8 @@
 <a href="https://packagist.org/packages/davidvandertuijn/number_format_except_zero"><img src="https://poser.pugx.org/davidvandertuijn/number_format_except_zero/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/davidvandertuijn/number_format_except_zero"><img src="https://poser.pugx.org/davidvandertuijn/number_format_except_zero/license.svg" alt="License"></a>
 
+![Number Format Except Zero](https://cdn.davidvandertuijn.nl/github/number_format_except_zero.png)
+
 ## Install
 
 ```
