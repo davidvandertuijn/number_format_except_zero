@@ -6,6 +6,10 @@
 
 ![Number Format Except Zero](https://cdn.davidvandertuijn.nl/github/number_format_except_zero.png)
 
+The “Number Format Except Zero” tool is designed to enhance the presentation of numerical data by formatting values while excluding zero entries. This functionality is particularly useful for creating clean and meaningful reports, visualizations, and data analyses.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/davidvandertuijn)
+
 ## Install
 
 ```
